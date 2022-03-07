@@ -766,7 +766,7 @@ img{
 .main-header .header-upper .logo img{
 	position: relative;
 	display: inline-block;
-	max-width: 40%;
+	max-width: 50%;
 	/* height: auto; */
 	z-index:1;
 }
@@ -6475,7 +6475,7 @@ img{
 	padding-left:20px;
 	line-height:24px;
 	color:#25283a;
-	margin-bottom:7px;
+	margin-bottom:10px;
 }
 
 .cause-details .inner-box ul li:before{
@@ -6483,9 +6483,9 @@ img{
 	position:absolute;
 	left:0;
 	top:9px;
-	width:6px;
-	height:6px;
-	background:#dadde0;
+	width:8px;
+	height:8px;
+	background:#353535;
 	border-radius:50%;
 }
 
